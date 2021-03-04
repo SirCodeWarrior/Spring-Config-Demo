@@ -1,2 +1,2 @@
 # Spring-Config-Demo
-Learn SteelToe with Spring Cloud Config server
+Learn, test and experiment SteelToe with Spring Cloud Config server
