@@ -1,0 +1,3 @@
+AC-Config: AC Config Text
+democonfigclient:
+  message: Hello AC config server
