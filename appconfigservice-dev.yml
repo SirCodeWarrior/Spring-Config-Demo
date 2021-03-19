@@ -1,0 +1,13 @@
+Info:
+  Description: appconfigserviceDev
+  MpServicesBaseUrl: https://appconfigservice.tst.gm.com
+  DealerServicesBaseUrl: https://appconfigservice-prdm.gm.com/v2
+  ConfgurationServicesBaseUrl: https://appconfigservice-dev.apps.pcfepg2wi.gm.com/api/configuration
+  AuthTokenClientId: appconfigserviceUser
+  AuthTokenClientSecret: ssdfsrfrgres
+  AuthTokenClientGrantType: client_credentials
+  MpLayer7ServicesBaseUrl: https://appconfigservice-gmb2c.tst.gm.com
+  SpockGatewayUrl: https://appconfigserviceapigateway-dev.apps.pcfepgw.gm.com/api/proxy
+  IsDevelopment: true
+  Layer7Username: appconfigservice_PPLayer7
+  Layer7Secret: NobJsA4Ve780c81Stdcesoa
